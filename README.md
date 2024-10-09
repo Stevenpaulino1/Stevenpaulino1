@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Steven Paulino 👋🏼🧑🏻‍💻🇩🇴🗽
 
-<!--
-**Stevenpaulino1/Stevenpaulino1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineer** with 4+ years of experience specializing in developing RESTful APIs, microservices, and distributed systems using **Java**, **Spring Boot**, **Express/TypeScript**, and more. I love building scalable and maintainable solutions that enhance user experiences for large-scale applications. 
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning
+- GraphQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📖 Currently Reading
+- System Design Interview – An insider's guide
+
+### 👯 I’m Looking to Collaborate On
+- Open-source projects involving backend services or cloud architecture.
+
+### 💬 Ask Me About
+- Microservices architecture, performance optimization, and CI/CD practices.
+- The challenges of scaling applications.
+- The Yankees
+
+### 📫 How to Reach Me
+- **LinkedIn:** [Steven Paulino](https://www.linkedin.com/in/stevenpaulino/)
+
+### 😄 Pronouns
+He/Him
+
+### ⚡ Fun Fact
+- I travel back and forth to Texas for work every week.
+- I am running the New York City Marathon in 2024 and 2025.
